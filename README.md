@@ -43,7 +43,7 @@ Early Warning System </b>
 <br><br>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilgoel&show_icons=true&locale=en&theme=dracula" alt="RohaHBTU" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilgoel&show_icons=true&locale=en&theme=dracula" alt="swapnilgoel" />
 <br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilgoel&theme=dracula" alt="swapnilgoel" />
 </p>
